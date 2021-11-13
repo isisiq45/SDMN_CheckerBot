@@ -48,10 +48,10 @@ $messagesec",
 	'reply_to_message_id'=> $message_id,
     'reply_markup'=>json_encode(['inline_keyboard' => [
         [
-          ['text' => "💠 Created By 💠", 'url' => "t.me/ninjanaveen"]
+          ['text' => "Join OUR CC Checker Group", 'url' => "t.me/MasamuneChecker"]
         ],
         [
-          ['text' => "💎 Source Code 💎", 'url' => "t.me/IndianBotsChat"]
+          ['text' => "Owner", 'url' => "t.me/Zeshimaa"]
         ],
       ], 'resize_keyboard' => true])
         
